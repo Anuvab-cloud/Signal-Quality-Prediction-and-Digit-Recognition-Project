@@ -26,7 +26,7 @@ The dataset for this part contains signal test results with the following column
 The SVHN dataset is composed of images of house numbers captured from Google Street View imagery. It presents a more complex problem than simpler datasets like MNIST due to distractors and real-world challenges, such as different fonts, lighting, and occlusions.
 
 ### Dataset Format:
-The SVHN dataset is available in **h5py file format**. Each image is labeled with the prominent digit visible in the image.
+The SVHN dataset is available in **h5py file format**. Each image is labeled with the prominent digit visible in the image. Sadly the file size being too big it couldn't be uploaded here
 
 ## Getting Started
 
